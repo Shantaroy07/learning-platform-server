@@ -1,26 +1,44 @@
 [
     {
         "id": "01",
-        "name": "C++"
+        "name": "Learn with C",
+        "img": "https://image.shutterstock.com/image-illustration/c-abstract-concept-blue-text-260nw-679071949.jpg",
+        "duration": "3 Months",
+        "details": ""
     },
     {
         "id": "02",
-        "name": "Database"
+        "name": "Learn C++",
+        "img": "https://image.shutterstock.com/image-illustration/c-plus-abstract-concept-blue-260nw-528261487.jpg",
+        "duration": "5 Months",
+        "details": ""
     },
     {
         "id": "03",
-        "name": "JavaScript"
+        "name": "JavaScript",
+        "img": "https://img.freepik.com/premium-photo/javascript-programming-code-abstract-technology-background_272306-155.jpg",
+        "duration": "4 Month",
+        "details": ""
     },
     {
         "id": "04",
-        "name": "Data Structure"
+        "name": "Machine Learning",
+        "img": "https://miro.medium.com/max/1200/1*VRbrA-5P0bs5qNseo-eU-A.jpeg",
+        "duration": "5 Months",
+        "details": ""
     },
     {
         "id": "05",
-        "name": "Algorithm"
+        "name": "Algorithm",
+        "img": "https://thumbs.dreamstime.com/b/algorithm-complex-like-puzzle-pictured-as-word-pieces-to-show-can-be-difficult-needs-cooperating-fit-together-d-164200577.jpg",
+        "duration": "5 Months",
+        "details": ""
     },
     {
         "id": "06",
-        "name": "C"
+        "name": "Database",
+        "img": "https://www.itpedia.nl/wp-content/uploads/2017/11/database2.jpg",
+        "duration": "3 Months",
+        "details": ""
     }
 ]
